@@ -1,0 +1,50 @@
+
+Mike Jasiczek; CIS 2503; Professor George; Week 4 Inheritance Pseudocode
+
+
+INCLUDE String
+USING Namespace
+
+CREATE Animal Class
+
+	CREATE Speak, amISafe, Tail var
+	CREATE get_Age()
+	CREATE set_Age()
+	
+	PRIVATE Age var
+	
+	
+CREATE Dog subClass
+	CREATE Spoiled()
+	
+
+CREATE Cat SubClass
+
+
+
+CREATE Tiger Subclass
+
+
+
+
+MAIN 
+
+CREATE Subclass objects that inherits from Animal Class
+SET Object.Age
+COUT Object.Age
+COUT Object.Speak
+COUT Object.Tail
+COUT Sublclass related functions
+
+
+
+	
+	
+	
+
+
+
+	  
+	
+	 
+	
